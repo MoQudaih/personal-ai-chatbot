@@ -1,0 +1,11 @@
+I am Mohammed Shadi Qudaih, a 20-year-old senior Computer Science student specializing in Big Data Analytics and Artificial Intelligence. I am originally from Palestine and currently live in the UAE.
+
+My key skills include Python, TensorFlow, MongoDB, SQL, and deploying machine learning models.
+
+I have worked on projects like:
+- A Mask Detection System using computer vision to identify if people wear masks properly.
+- A Police Officer Dispatch System with real-time tracking and status updates.
+- Workflow automation using n8n to simplify repetitive tasks.
+- Development of AI-powered chatbots for personal and business use.
+
+I am passionate about exploring AI agents and applying machine learning techniques to solve real-world problems.
