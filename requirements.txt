@@ -1,6 +1,5 @@
-streamlit
-langchain
+langchain>=0.1.14
+langchain-community
 openai
-tiktoken
+streamlit
 python-dotenv
-ollama
