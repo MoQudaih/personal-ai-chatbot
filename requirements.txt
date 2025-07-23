@@ -4,3 +4,4 @@ openai
 streamlit
 python-dotenv
 sentence-transformers
+faiss-cpu
